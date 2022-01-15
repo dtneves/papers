@@ -10,7 +10,7 @@ python main.py --algos="GAIN,SGAIN,WSGAIN-CP,WSGAIN-GP" --datasets="iris,yeast" 
 
 ## Citing
 <pre>
-@inproceedings{neves:iccs:2021,
+@inproceedings{dtneves:iccs:2021,
    title     = {{SGAIN, WSGAIN-CP and WSGAIN-GP: Novel GAN Methods for Missing Data Imputation}},
    author    = {Diogo Telmo Neves, Marcel Ganesh Naik, and Alberto Proença},
    booktitle = {The 20th International Conference on Computational Science (ICCS '21)},

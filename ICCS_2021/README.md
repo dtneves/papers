@@ -1,4 +1,4 @@
-# ICCS 2021
+# International Conference on Computational Science (ICCS) 2021
 Codebase for "SGAIN, WSGAIN-CP and WSGAIN-GP: Novel GAN Methods for Missing Data Imputation"
 
 ## Usage Example

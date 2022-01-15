@@ -1,4 +1,4 @@
-# JCS 2022
+# Journal of Computational Science (JCS) 2022
 Codebase for "From Missing Data Imputation to Data Generation"
 
 ## Usage Example
